@@ -1,2 +1,2 @@
-const cities=["Mumbai","Delhi"];
+const cities=["Mumbai","Delhi","Jaipur"];
 console.log(cities);
